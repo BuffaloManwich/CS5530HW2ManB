@@ -32,4 +32,4 @@ We see the results are very close to the actual population.
 ![Screenshot 2024-07-23 131252](https://github.com/user-attachments/assets/b81935f7-a0d0-4321-bc07-41fb3a244134)
 
 # This process clearly indicates that the bottstrapping method is valuable.
-This is an effective method of performing population analsis with access to the full population data.
+This is an effective method of performing population analysis with access to the full population data.
